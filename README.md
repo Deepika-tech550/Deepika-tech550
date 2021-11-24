@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Deepika-tech550
 - 👀 I’m interested in learning newthings ,coding 
 - 🌱 I’m currently learning Python,Django,Js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📗 I’m a graduating Engineering Student 
+
 
 <!---
 Deepika-tech550/Deepika-tech550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
