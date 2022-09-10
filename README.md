@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepika-tech550
 - 👀 I’m interested in learning newthings ,coding 
-- 🌱 I’m currently learning Python,Django,Js
+- 🌱 I’m currently learning Python,Django
 - 📗 I’m a graduating Engineering Student 
 
 
